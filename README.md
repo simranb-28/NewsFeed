@@ -25,7 +25,7 @@ The app features **infinite scrolling, dark mode, category filtering, and optimi
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/newsfeed.git
+git clone https://github.com/simranb-28/newsfeed.git
 cd newsfeed
 ```
 
